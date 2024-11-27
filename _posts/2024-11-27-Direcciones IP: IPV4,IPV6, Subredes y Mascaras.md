@@ -2,7 +2,7 @@
 title: "Direcciones IP: IPv4, IPv6, Subredes y Máscaras de Red"
 date: 2024-11-27
 categories: [Redes, Direcciones IP]
-tags: [IPv4, IPv6, Subredes, Máscaras, CCNA]
+tags: [IPv4, IPv6, Subredes, Máscaras]
 toc: true
 ---
 
