@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/lib/mrpe.png
+avatar: https://avatars.githubusercontent.com/u/170418367?s=400&u=2e8a4855be92b75ee64a50a7adecdc36859696b8&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
