@@ -1,7 +1,7 @@
 ---
 title: "Puertos y Protocolos Comunes: Una Guía Detallada"
 date: 2024-11-27
-categories: [Redes]
+categories: [Redes, Puertos y Protocolos]
 tags: [TCP, UDP, HTTP, HTTPS, DNS, Puertos, Protocolos, Servicios]
 toc: true
 ---
